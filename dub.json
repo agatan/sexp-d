@@ -1,5 +1,6 @@
 {
 	"name": "sexp",
+    "license": "MIT",
 	"description": "A minimal S-expression library",
 	"copyright": "Copyright © 2015, agatan",
 	"authors": ["agatan"],
